@@ -47,7 +47,7 @@ https://www.tinkercad.com/things/iq7VvKmFC93-fantabulous-albar-kieran
 
 ### Servo Motors Simulation
 
-![Simulation](simulation.gif)
+![Simulation](simulation.gif.mp4)
 
 ---
 
