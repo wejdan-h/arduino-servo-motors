@@ -49,6 +49,10 @@ https://www.tinkercad.com/things/iq7VvKmFC93-fantabulous-albar-kieran
 
 ![Simulation](simulation.gif.mp4)
 
+
+https://github.com/user-attachments/assets/2f6edc26-3049-45c0-bc26-ce2e02558cfe
+
+
 ---
 
 ## Learning Outcomes
